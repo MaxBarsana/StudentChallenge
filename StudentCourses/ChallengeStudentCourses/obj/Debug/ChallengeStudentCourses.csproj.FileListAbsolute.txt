@@ -1,0 +1,7 @@
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\ChallengeStudentCourse\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll.config
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\ChallengeStudentCourse\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\ChallengeStudentCourse\ChallengeStudentCourses\bin\ChallengeStudentCourses.pdb
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\ChallengeStudentCourse\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csprojResolveAssemblyReference.cache
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\ChallengeStudentCourse\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csproj.CoreCompileInputs.cache
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\ChallengeStudentCourse\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.dll
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\ChallengeStudentCourse\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.pdb
